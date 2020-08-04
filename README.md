@@ -4,6 +4,8 @@ Em andamento ⌛
 
 - Trilha Discovery
 
-O projeto dessa semana consiste em uma aplicação de ensino, o qual a pessoa poderá se cadastrar como aluno ou como professor.
+Projeto <b>Proffy</b>
+
+Consiste em uma plataforma de estudo online, em que a pessoa poderá se cadastrar como aluno ou como professor.
 
 Conheça a <a href="https://rocketseat.com.br/">Rocketseat</a> 💜
