@@ -1,7 +1,5 @@
 ## Next Level Week #2 - Rocketseat :rocket:
 
-Em andamento ⌛
-
 - Trilha Discovery
 
 Projeto <b>Proffy</b>
